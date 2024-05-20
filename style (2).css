@@ -12,7 +12,7 @@
     top: 60px;
     left: 0;
     width: 100%;
-    background-color: #fff;
+    background-color: #e01818;
     z-index: 99;
   }
 
@@ -31,7 +31,7 @@
   }
 
   nav a:hover {
-    background-color: #f5f5f5;
+    background-color: #792929;
   }
 
   /* Контент */
@@ -56,8 +56,8 @@
     display: inline-block;
     padding: 10px 20px;
     margin-top: 20px;
-    background-color: #333;
-    color: #fff;
+    background-color: #110342;
+    color: #ff0000;
     border: none;
   }
 
@@ -90,7 +90,7 @@
   .testimonial {
     padding: 20px;
     margin: 10px 0;
-    background-color: #f5f5f5;
+    background-color: #5a0000;
   }
 
   .testimonial p {
@@ -163,32 +163,32 @@
 /* Темная тема */
 
 body {
-  background-color: #404040;
-  color: #fff;
+  background-color: #0f0533;
+  color: #ffffff;
 }
 
 header {
-  background-color: #5a5a5a;
+  background-color: #8f6008;
 }
 
 nav ul {
-  background-color: #333;
+  background-color: #000000;
 }
 
 nav a {
-  color: #fff;
+  color: #ffffff;
 }
 
 nav a:hover {
-  background-color: #252525;
+  background-color: #c40000;
 }
 
 #hero {
-  background-color: #333;
+  background-color: #000000;
 }
 
 #hero h1 {
-  color: #efd59b;
+  color: #ffffff;
 }
 
 #hero p {
@@ -201,7 +201,7 @@ nav a:hover {
 }
 
 #features {
-  background-color: #333;
+  background-color: #000000;
 }
 
 #features h2 {
@@ -209,7 +209,7 @@ nav a:hover {
 }
 
 #features ul {
-  background-color: #674d4d;
+  background-color: #000000;
 }
 
 #features li {
@@ -217,7 +217,7 @@ nav a:hover {
 }
 
 #testimonials {
-  background-color: #333;
+  background-color: #000000;
 }
 
 #testimonials h2 {
